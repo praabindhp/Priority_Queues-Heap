@@ -24,6 +24,6 @@ The User Will Be Prompted To :
 
     2. Enter the Size of the Priority Queue
     
-        2.1. Priority queue size is to small 
+        2.1. Priority Queue Size is to Small 
 
     3. Result after Evaluation

@@ -24,6 +24,10 @@ The User Will Be Prompted To :
 
     2. Enter the Size of the Priority Queue
     
-        2.1. Priority Queue Size is to Small 
+        2.1. Priority Queue Size is to Small
 
-    3. Result after Evaluation
+    3. Priority Queue is Full
+
+    4. Priority Queue is Empty
+
+    5. 

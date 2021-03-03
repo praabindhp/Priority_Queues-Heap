@@ -20,8 +20,6 @@ The User Will Be Prompted To :
 
         1.1. Priority Queue Display
 
-        3.2. Priority Queue is Empty
-
     2. Enter the Size of the Priority Queue
     
         2.1. Priority Queue Size is to Small
@@ -30,4 +28,8 @@ The User Will Be Prompted To :
 
     4. Priority Queue is Empty
 
-    5. 
+    5. Enter Your Choice
+
+    6. Enter The Element
+
+    7. Deleted Element Is

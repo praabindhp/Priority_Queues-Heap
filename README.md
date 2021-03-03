@@ -5,3 +5,11 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 This Is A C-Program To Illustrate Priority Queue Using Heap
 
+The Operations/Error Illustrated :
+
+    1. Priority Queue using Heap
+
+      1.1. Insert
+      1.2. DeleteMin
+      1.3. Display
+      1.4. Exit

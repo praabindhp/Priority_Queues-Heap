@@ -36,4 +36,3 @@ The User Will Be Prompted To :
     5. The buffer contains
     
     6. Cannot consume till producer produces it
-

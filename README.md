@@ -15,13 +15,13 @@ The Operations/Error Illustrated :
 
 Producer and Consumer
 
-    1.Produce an item
+    1. Produce an item
 
-    2.Consume an item
+    2. Consume an item
 
-    3.Display the items
+    3. Display the items
 
-    4.Exit
+    4. Exit
 
 The User Will Be Prompted To :
 

@@ -28,7 +28,12 @@ The User Will Be Prompted To :
     1. Enter the choice
 
     2. Enter the item to be inserted in buffer
+    
     3. The produced element is
+    
     4. The consumed item is
+    
     5. The buffer contains
+    
     6. Cannot consume till producer produces it
+

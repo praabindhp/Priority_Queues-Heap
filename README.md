@@ -15,24 +15,24 @@ The Operations/Error Illustrated :
 
 Producer and Consumer
 
-    1. Produce an item
+    1. Produce An Item
 
-    2. Consume an item
+    2. Consume An Item
 
-    3. Display the items
+    3. Display The Items
 
     4. Exit
 
 The User Will Be Prompted To :
 
-    1. Enter the choice
+    1. Enter The Choice
 
-    2. Enter the item to be inserted in buffer
+    2. Enter The Item To Be Inserted In Buffer
     
-    3. The produced element is
+    3. The Produced Element Is
     
-    4. The consumed item is
+    4. The Consumed Item Is
     
-    5. The buffer contains
+    5. The Buffer Contains
     
-    6. Cannot consume till producer produces it
+    6. Cannot Consume Till Producer Produces It

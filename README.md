@@ -10,29 +10,3 @@ Priority Queue is an extension of the queue with the following properties:
 Every item has a priority associated with it.
 An element with high priority is dequeued before an element with low priority.
 If two elements have the same priority, they are served according to their order in the queue.
-
-The Operations/Error Illustrated :
-
-Producer and Consumer
-
-    1. Produce An Item
-
-    2. Consume An Item
-
-    3. Display The Items
-
-    4. Exit
-
-The User Will Be Prompted To :
-
-    1. Enter The Choice
-
-    2. Enter The Item To Be Inserted In Buffer
-    
-    3. The Produced Element Is
-    
-    4. The Consumed Item Is
-    
-    5. The Buffer Contains
-    
-    6. Cannot Consume Till Producer Produces It

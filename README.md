@@ -13,29 +13,22 @@ If two elements have the same priority, they are served according to their order
 
 The Operations/Error Illustrated :
 
-    1. Priority Queue using Heap
+Producer and Consumer
 
-      1.1. Insert
-      1.2. DeleteMin
-      1.3. Display
-      1.4. Exit
+    1.Produce an item
+
+    2.Consume an item
+
+    3.Display the items
+
+    4.Exit
 
 The User Will Be Prompted To :
 
-    1. Priority Queue Display
+    1. Enter the choice
 
-        1.1. Priority Queue Display
-
-    2. Enter the Size of the Priority Queue
-    
-        2.1. Priority Queue Size is to Small
-
-    3. Priority Queue is Full
-
-    4. Priority Queue is Empty
-
-    5. Enter Your Choice
-
-    6. Enter The Element
-
-    7. Deleted Element Is
+    2. Enter the item to be inserted in buffer
+    3. The produced element is
+    4. The consumed item is
+    5. The buffer contains
+    6. Cannot consume till producer produces it
